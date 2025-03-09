@@ -16,17 +16,10 @@ I'm passionate about building scalable, efficient, and user-friendly software so
 
 - System Design, Experimenting with "Lynx" from bytedance
 
-
-## 📫 How to Reach Me
-
-- **Email:** [vinishreddy.k@gmail.com](mailto:vinishreddy.k@gmail.com)
-- **LinkedIn:** [My LinkedIn Profile](https://linkedin.com/in/vinishreddy)
-- **Portfolio:** [vinish-reddy.web.app](https://vinish-reddy.web.app)
-
 ## 💬 Let's Collaborate!
 
 I'm always open to collaborating on interesting projects. Feel free to reach out if you have an idea or just want to connect!
 
 ---
 
-⭐️ From [Vinish Reddy Kamireddy](https://github.com/VinishReddyK)
+⭐️ From [Vinish Reddy Kamireddy](https://vinish-reddy.web.app)
