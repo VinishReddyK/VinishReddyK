@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Vinish 👋
 
-<!--
-**VinishReddyK/VinishReddyK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Engineer | Open Source Enthusiast | Problem Solver**
 
-Here are some ideas to get you started:
+I'm passionate about building scalable, efficient, and user-friendly software solutions. With a strong foundation in full stack development, machine learning, I enjoy tackling complex problems and turning ideas into reality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+
+- **Languages:**  Java, Python, C#, C++, TypeScript, Swift
+- **Frameworks:** React, Django, Spring Boot, Scikit-learn, TensorFlow
+- **Tools:** Docker, Kubernetes, Git, AWS, GCP
+- **Databases:** MySQL, PostgreSQL, MongoDB, Redis
+- **Other:** Firebase, RESTful APIs, Machine Learning, OOPs, Data Structures
+
+## 🌱 What I'm Currently Learning
+
+- System Design, Experimenting with "Lynx" from bytedance
+
+
+## 📫 How to Reach Me
+
+- **Email:** [vinishreddy.k@gmail.com](mailto:vinishreddy.k@gmail.com)
+- **LinkedIn:** [My LinkedIn Profile](https://linkedin.com/in/vinishreddy)
+- **Portfolio:** [@YourHandle](https://vinish-reddy.web.app)
+
+## 💬 Let's Collaborate!
+
+I'm always open to collaborating on interesting projects. Feel free to reach out if you have an idea or just want to connect!
+
+---
+
+⭐️ From [Vinish Reddy Kamireddy](https://github.com/VinishReddyK)
