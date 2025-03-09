@@ -21,7 +21,7 @@ I'm passionate about building scalable, efficient, and user-friendly software so
 
 - **Email:** [vinishreddy.k@gmail.com](mailto:vinishreddy.k@gmail.com)
 - **LinkedIn:** [My LinkedIn Profile](https://linkedin.com/in/vinishreddy)
-- **Portfolio:** [@YourHandle](https://vinish-reddy.web.app)
+- **Portfolio:** [vinish-reddy.web.app](https://vinish-reddy.web.app)
 
 ## 💬 Let's Collaborate!
 
