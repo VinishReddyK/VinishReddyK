@@ -22,4 +22,4 @@ I'm always open to collaborating on interesting projects. Feel free to reach out
 
 ---
 
-⭐️ From [Vinish Reddy Kamireddy](https://vinish-reddy.web.app)
+⭐️ From [Vinish Reddy Kamireddy](https://vinishreddy.com)
