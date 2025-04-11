@@ -4,8 +4,8 @@
 
 I'm passionate about building scalable, efficient, and user-friendly software solutions. With a strong foundation in full stack development, machine learning, I enjoy tackling complex problems and turning ideas into reality.
 
-| Category       | Technologies & Tools                                                                 |
-|----------------|--------------------------------------------------------------------------------------|
+## 🔧 Technologies & Tools
+
 | **Languages**  | Java, Python, C#, C++, TypeScript, Swift, PHP, Go                                   |
 | **Frameworks** | React, Django, Spring Boot, Scikit-learn, TensorFlow                                |
 | **Tools**      | Docker, Kubernetes, Git, AWS, GCP                                                   |
