@@ -6,13 +6,11 @@ I'm passionate about building scalable, efficient, and user-friendly software so
 
 ## 🔧 Technologies & Tools
 
-| Category       | Technologies & Tools                                                                 |
-|----------------|--------------------------------------------------------------------------------------|
-| **Languages**  | Java, Python, C#, C++, TypeScript, Swift, PHP, Go                                   |
-| **Frameworks** | React, Django, Spring Boot, Scikit-learn, TensorFlow                                |
-| **Tools**      | Docker, Kubernetes, Git, AWS, GCP                                                   |
-| **Databases**  | MySQL, PostgreSQL, MongoDB, Redis                                                  |
-| **Other**      | Firebase, RESTful APIs, Machine Learning, OOPs, Data Structures                     |
+| **Languages**       | Java, Python, C#, C++, TypeScript, Swift, PHP, Go |  
+| **Frameworks**      | React, Django, Spring Boot, Scikit-learn, TensorFlow |  
+| **Tools**           | Docker, Kubernetes, Git, AWS, GCP |  
+| **Databases**       | MySQL, PostgreSQL, MongoDB, Redis |  
+| **Other**           | Firebase, RESTful APIs, Machine Learning, OOPs, Data Structures |  
 
 ## 🌱 What I'm Currently Learning
 
